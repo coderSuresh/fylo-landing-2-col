@@ -232,7 +232,7 @@ footer a {
     color: white;
 }
 
-.contacto {
+.contacto ul {
     display: flex;
     align-items: center;
 }
