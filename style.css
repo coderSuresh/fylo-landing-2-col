@@ -376,6 +376,10 @@ footer a {
         margin-left: 10px;
         font-size: 0.8rem;
     }
+    
+    .logo {
+        width: 80px;
+    }
 }
 
 @media (max-width: 300px) {
